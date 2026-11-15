@@ -6,7 +6,7 @@ Built for the NASA 2026 hackathon challenge *Harmonization of MODIS and VIIRS Ho
 
 ![Calendar view](docs/figures/calendar.png)
 
-Demo video: TODO (add link)
+Demo video: TODO 
 
 ## What it found
 
