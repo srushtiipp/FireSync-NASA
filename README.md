@@ -4,7 +4,7 @@
 
 Built for the NASA 2026 hackathon challenge *Harmonization of MODIS and VIIRS Hot Spots*, using Punjab and Haryana (India) as the study region.
 
-![Calendar view](docs/figures/calendar.png)
+![Calendar view](docs/calendar.png)
 
 Demo video: TODO 
 
@@ -14,7 +14,7 @@ Autumn fire detections in the study region have fallen to a small fraction of th
 
 Counts are satellite hotspot detections, not burned area. A lower count means fewer detections, and this project does not explain why.
 
-![Season view](docs/figures/seasons.png)
+![Season view](docs/seasons.png)
 
 ## The problem
 
