@@ -6,7 +6,7 @@ Built for the NASA 2026 hackathon challenge *Harmonization of MODIS and VIIRS Ho
 
 ![Calendar view](docs/calendar.png)
 
-Demo video: TODO 
+Demo video: (https://youtu.be/fNCPBwkFES8) 
 
 ## What it found
 
@@ -118,4 +118,4 @@ Per-cell harmonization so any selected area is calibrated, uncertainty bands on 
 
 Active fire data from NASA FIRMS: MODIS Collection 6.1 (Terra and Aqua) and VIIRS S-NPP 375 m. The data is courtesy of NASA and used under its open data policy.
 
-Built by TODO (your name).
+Built by Srushti.
